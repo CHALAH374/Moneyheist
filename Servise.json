@@ -1,0 +1,26 @@
+[
+  {
+    "id": "plan_1k",
+    "title": "1k Reactions",
+    "duration": "1monthe Active",
+    "price": "Rs. 1000"
+  },
+  {
+    "id": "plan_2k",
+    "title": "2k Reactions",
+    "duration": "1monthe Active",
+    "price": "Rs. 1500"
+  },
+  {
+    "id": "plan_2_5kf",
+    "title": "2.5k Followers",
+    "duration": "1second",
+    "price": "Rs. 1000"
+  },
+  {
+    "id": "plan_5_5kf",
+    "title": "5.5k Followers",
+    "duration": "1second",
+    "price": "Rs. 2500"
+  }
+]
